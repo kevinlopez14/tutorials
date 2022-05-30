@@ -247,6 +247,7 @@ Creamos el nuevo agente dentro de KEPServerEX
 ![Paso 1](https://elkevo.dev/repo/Step1.png)
 Nos mostrará una ventana como la siguiente, colocamos el nombre y en el tipo, verificamos que este
 seleccionado MQTT Client
+
 ![Paso 2](https://elkevo.dev/repo/Step2.png)
 En el siguiente paso colocaremos la configuración realizada en Telegraf, prestar mucha atención a este paso,
 el topic debera ser el mismo que en nuestra configuración. 
